@@ -1,0 +1,17 @@
+C:\Users\Mspag\Desktop\HttpDotNetCore\obj\Debug\net6.0\HttpDotNetCore.csproj.AssemblyReference.cache
+C:\Users\Mspag\Desktop\HttpDotNetCore\obj\Debug\net6.0\HttpDotNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mspag\Desktop\HttpDotNetCore\obj\Debug\net6.0\HttpDotNetCore.AssemblyInfoInputs.cache
+C:\Users\Mspag\Desktop\HttpDotNetCore\obj\Debug\net6.0\HttpDotNetCore.AssemblyInfo.cs
+C:\Users\Mspag\Desktop\HttpDotNetCore\obj\Debug\net6.0\HttpDotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Mspag\Desktop\HttpDotNetCore\bin\Debug\net6.0\HttpDotNetCore.exe
+C:\Users\Mspag\Desktop\HttpDotNetCore\bin\Debug\net6.0\HttpDotNetCore.deps.json
+C:\Users\Mspag\Desktop\HttpDotNetCore\bin\Debug\net6.0\HttpDotNetCore.runtimeconfig.json
+C:\Users\Mspag\Desktop\HttpDotNetCore\bin\Debug\net6.0\HttpDotNetCore.dll
+C:\Users\Mspag\Desktop\HttpDotNetCore\bin\Debug\net6.0\ref\HttpDotNetCore.dll
+C:\Users\Mspag\Desktop\HttpDotNetCore\bin\Debug\net6.0\HttpDotNetCore.pdb
+C:\Users\Mspag\Desktop\HttpDotNetCore\obj\Debug\net6.0\HttpDotNetCore.dll
+C:\Users\Mspag\Desktop\HttpDotNetCore\obj\Debug\net6.0\ref\HttpDotNetCore.dll
+C:\Users\Mspag\Desktop\HttpDotNetCore\obj\Debug\net6.0\HttpDotNetCore.pdb
+C:\Users\Mspag\Desktop\HttpDotNetCore\obj\Debug\net6.0\HttpDotNetCore.genruntimeconfig.cache
+C:\Users\Mspag\Desktop\HttpDotNetCore\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Mspag\Desktop\HttpDotNetCore\obj\Debug\net6.0\HttpDotNetCore.csproj.CopyComplete
